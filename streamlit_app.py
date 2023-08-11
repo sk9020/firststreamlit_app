@@ -1,3 +1,4 @@
 import streamlit
 
-streamlit.title('My Parents new healthy diner')
+streamlit.title('Sugreev Snowflake Badge 2 course')
+streamlit.title('Learning app building with streamlit')
